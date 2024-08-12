@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Main-Class: by.aghmi.tikomed.Main
+Class-Path: commons-io-2.15.0.jar commons-compress-1.25.0.jar commons-co
+ dec-1.16.0.jar commons-collections4-4.4.jar javafx-graphics-17.0.6-win.
+ jar curvesapi-1.08.jar javafx-controls-17.0.6-win.jar javafx-fxml-17.0.
+ 6-win.jar log4j-api-2.21.1.jar commons-math3-3.6.1.jar javafx-fxml-17.0
+ .6.jar poi-5.2.5.jar SparseBitSet-1.3.jar javafx-base-17.0.6-win.jar ja
+ vafx-graphics-17.0.6.jar javafx-base-17.0.6.jar poi-ooxml-lite-5.2.5.ja
+ r javafx-controls-17.0.6.jar poi-ooxml-5.2.5.jar SparseBitSet-1.2.jar x
+ mlbeans-5.2.0.jar
+
